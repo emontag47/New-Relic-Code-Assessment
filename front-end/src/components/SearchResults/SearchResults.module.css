@@ -1,0 +1,39 @@
+/* CSS styling for the SearchResults component */
+
+.resultsContainer {
+    max-height: 300px; /* Adjust as needed */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+  
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+  
+.th, .td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+.th {
+    background-color: #f2f2f2;
+    text-align: left;
+    color: #282c34;
+    font-size: 15px;
+}
+
+.td {
+    text-align: left;
+    font-size: 15px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+  
