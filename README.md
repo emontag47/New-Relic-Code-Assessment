@@ -43,7 +43,7 @@ At this point, you should be able to navigate to the frontend [link](http://loca
 
 #### \* With every assumption or choice made, I would ask the Product Owner and Designer additional questions before programming, or run the choice by them to get their thoughts and feedback.
 
-#### Design
+#### UI Design
 
 - With no specific design requirements, I decided on a simple layout with a dark background and white text for ample contrast.
 - Additionally, I have chosen to display the results as a table with a column for first name, last name, and company, believing this is a clear way to display all of the data from the database.
