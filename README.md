@@ -27,7 +27,7 @@ Clone the repository to a directory of your choice
 #### Backend
 
 1. `cd` into the `back-end` folder
-2. Run `pip install requirements.txt` to install the necessary dependencies
+2. Run `pip install -r requirements.txt` to install the necessary dependencies
 3. run `python app.py` to spin up the backend on `http://127.0.0.1:5000`
 4. To run the test library, run `python -m pytest` in the terminal window
 
